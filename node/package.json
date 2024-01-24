@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@dcl/react-ecs": "^7.3.7",
+    "axios": "^1.4.0",
+    "decentraland-ecs": "^6.12.0"
+  }
+}
